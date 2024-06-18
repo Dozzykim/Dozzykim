@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=Dozzykim&theme=vue&locale=ko)](https://git.io/streak-stats)
+
 <!--
 **Dozzykim/Dozzykim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
